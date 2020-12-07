@@ -1,0 +1,11 @@
+IDEEN - Server - Galaxy shit
+
+HUD:
+- Schwarzer BG + PB gefärbt
+- Statt durchgehend - Vierecke
+
+Login-Hud:
+- Ecken abrunden
+
+Einkaufsladen-Hud:
+- Shop Symbol bissl bigger
